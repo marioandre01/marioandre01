@@ -3,6 +3,7 @@
 ### Hi there / Olá 👋
 
 🌱 Atualmente estou aprendendo: R, Python
+<br>
 📫 Contato: https://www.linkedin.com/in/mario-andre-la | mario_andre.l.a@hotmail.com
 
 <!--

@@ -2,11 +2,11 @@
 
 ### Hi there / Olá 👋
 
-🌱 Atualmente estou aprendendo: R, Python;
+🌱 <b>Atualmente estou aprendendo:</b> R, Python;
 <br>
-💻 Linguagens praticadas: Shell script, HTML, CSS, C, C++, Java, VHDL, SQL, Python, R, PHP;
+💻 <b>Linguagens praticadas:</b> Shell script, HTML, CSS, C, C++, Java, VHDL, SQL, Python, R, PHP;
 <br>
-📫 Contato: https://www.linkedin.com/in/mario-andre-la | mario_andre.l.a@hotmail.com;
+📫 <b>Contato:</b> https://www.linkedin.com/in/mario-andre-la | mario_andre.l.a@hotmail.com;
 
 <!--
 **marioandre01/marioandre01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

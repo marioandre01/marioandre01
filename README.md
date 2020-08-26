@@ -4,7 +4,7 @@
 
 🌱 <b>Atualmente estou aprendendo:</b> R, Python;
 <br>
-💻 <b>Linguagens praticadas:</b> Shell script, HTML, CSS, C, C++, Java, VHDL, SQL, Python, R, PHP;
+💻 <b>Linguagens praticadas:</b> Shell script, HTML, CSS, C, C++, Java, VHDL, SQL, Java Script, Python, R, PHP;
 <br>
 📫 <b>Contato:</b> https://www.linkedin.com/in/mario-andre-la | mario_andre.l.a@hotmail.com;
 

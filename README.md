@@ -2,6 +2,8 @@
 
 ### Hi there / Olá 👋
 
+📫 Contato: https://www.linkedin.com/in/mario-andre-la/ mario_andre.l.a@hotmail.com
+
 <!--
 **marioandre01/marioandre01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

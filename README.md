@@ -8,7 +8,7 @@
 <br>
 📫 <b>Contato:</b> https://www.linkedin.com/in/mario-andre-la | mario_andre.l.a@hotmail.com;
 <br>
-💻 <b>Prática de lógica:</b> https://app.codesignal.com/profile/mario_a33;
+💻 <b>Prática de lógica:</b> <a href="https://app.codesignal.com/profile/mario_a33" target="_blank">https://app.codesignal.com/profile/mario_a33</a>;
 
 
 

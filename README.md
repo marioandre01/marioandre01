@@ -6,9 +6,10 @@
 <br>
 💻 <b>Linguagens já praticadas:</b> Shell Script, C, Java, C++, HTML, CSS, JavaScript, jQuery, VHDL, SQL, Python, R, PHP;
 <br>
-📫 <b>Contato:</b> https://www.linkedin.com/in/mario-andre-la | mario_andre.l.a@hotmail.com;
-<br>
 💻 <b>Prática de lógica:</b> <a href="https://app.codesignal.com/profile/mario_a33" target="_blank">app.codesignal.com/profile/mario_a33</a>;
+<br>
+📫 <b>Contato:</b> https://www.linkedin.com/in/mario-andre-la | mario_andre.l.a@hotmail.com;
+
 
 
 

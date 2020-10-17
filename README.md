@@ -2,7 +2,7 @@
 
 ### Hi there / Olá 👋
 
-🌱 <b>Atualmente estou aprendendo:</b> R, Python;
+🌱 <b>Atualmente estou aprendendo:</b> Node.js, API RESTful, ReactJs, TypeScrpit;
 <br>
 💻 <b>Linguagens já praticadas:</b> Shell Script, C, Java, C++, HTML, CSS, JavaScript, jQuery, VHDL, SQL, Python, R, PHP;
 <br>

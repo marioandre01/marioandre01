@@ -7,7 +7,9 @@
 💻 <b>Linguagens já praticadas:</b> Shell Script, C, Java, C++, HTML, CSS, JavaScript, jQuery, VHDL, SQL, Python, R, PHP;
 <br>
 📫 <b>Contato:</b> https://www.linkedin.com/in/mario-andre-la | mario_andre.l.a@hotmail.com;
-:blush:
+💻 <b>Prática de lógica:</b> https://app.codesignal.com/profile/mario_a33;
+<br>
+
 
 <!--
 **marioandre01/marioandre01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

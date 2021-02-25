@@ -11,7 +11,7 @@ Sou um FullStack Developer em desenvolvimento :computer:
  <br/> 💬  &nbsp; <b>Sobre mim:</b> Curto tecnologias, Animes, games e futebol
  <br/> :email: &nbsp; <b>Entre em contato comigo:</b> [![Linkedin Badge](https://img.shields.io/badge/-MarioAndre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-andre-la/)](https://www.linkedin.com/in/mario-andre-la/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-mario_andre.l.a@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mario_andre.l.a@hotmail.com)](mailto:mario_andre.l.a@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-mario_andre.l.a@hotmail.com-0078d4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mario_andre.l.a@hotmail.com)](mailto:mario_andre.l.a@hotmail.com)
 
 
 

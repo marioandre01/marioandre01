@@ -1,7 +1,7 @@
 # Mário André Lehmkuhl de Abreu
 ### Hi there / Olá 👋
 
-Sou um FullStack Developer em desenvolvimento :computer:
+Sou um Desenvolvedor FullStack em desenvolvimento :computer:
 
  :rocket:  &nbsp; <b>Estou trabalhando na:</b> Procurando trabalho na área
  <br/> :computer: &nbsp; <b>Minha stack:</b> ReactJS, VueJS, Node.js, Python, Java

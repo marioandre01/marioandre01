@@ -4,7 +4,7 @@
 Sou um FullStack Developer em desenvolvimento :computer:
 
  :rocket:  &nbsp; Estou trabalhando na: **Procurando trabalho na área**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <!--<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React -->
  <br/> :computer: &nbsp; Minha stack: ReactJS, VueJS, Node.js, Python, Java
  <br/> 🌱 <b>Atualmente estou aprendendo:</b> Node.js, API RESTful, ReactJs, TypeScript, boas práticas de clean code, VueJS
  <br/> 💻 <b>Linguagens já praticadas:</b> Shell Script, C, Java, C++, HTML, CSS, JavaScript, jQuery, VHDL, SQL, Python, R, PHP

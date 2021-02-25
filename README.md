@@ -1,15 +1,4 @@
 # Mário André Lehmkuhl de Abreu
-
-### Hi there / Olá 👋
-
-🌱 <b>Atualmente estou aprendendo:</b> Node.js, API RESTful, ReactJs, TypeScript, boas práticas de clean code, VueJS;
-<br>
-💻 <b>Linguagens já praticadas:</b> Shell Script, C, Java, C++, HTML, CSS, JavaScript, jQuery, VHDL, SQL, Python, R, PHP;
-<br>
-💻 <b>Prática de lógica:</b> <a href="https://app.codesignal.com/profile/mario_a33" target="_blank">app.codesignal.com/profile/mario_a33</a>;
-
-
-# Mário André Lehmkuhl de Abreu
 ### Hi there / Olá 👋
 
 Sou um FullStack Developer em desenvolvimento :computer:
@@ -17,6 +6,9 @@ Sou um FullStack Developer em desenvolvimento :computer:
  :rocket:  &nbsp; Estou trabalhando na: **Procurando trabalho na área**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; Minha stack: ReactJS, VueJS, Node.js, Python, Java
+ <br/> 🌱 <b>Atualmente estou aprendendo:</b> Node.js, API RESTful, ReactJs, TypeScript, boas práticas de clean code, VueJS;
+ <br/> 💻 <b>Linguagens já praticadas:</b> Shell Script, C, Java, C++, HTML, CSS, JavaScript, jQuery, VHDL, SQL, Python, R, PHP;
+ <br/> 💻 <b>Prática de lógica:</b> <a href="https://app.codesignal.com/profile/mario_a33" target="_blank">app.codesignal.com/profile/mario_a33</a>;
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Animes e games.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarioAndre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-andre-la/)](https://www.linkedin.com/in/mario-andre-la/) 
 | 

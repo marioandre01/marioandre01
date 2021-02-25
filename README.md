@@ -9,9 +9,10 @@ Sou um FullStack Developer em desenvolvimento :computer:
  <br/> 💻 <b>Linguagens já praticadas:</b> Shell Script, C, Java, C++, HTML, CSS, JavaScript, jQuery, VHDL, SQL, Python, R, PHP
  <br/> 💻 <b>Prática de lógica:</b> <a href="https://app.codesignal.com/profile/mario_a33" target="_blank">app.codesignal.com/profile/mario_a33</a>
  <br/> 💬  &nbsp; <b>Sobre mim:</b> Curto tecnologias, Animes, games e futebol
- <br/> :email: &nbsp; <b>Entre em contato comigo:</b> [![Linkedin Badge](https://img.shields.io/badge/-MarioAndre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-andre-la/)](https://www.linkedin.com/in/mario-andre-la/) 
-| 
-[![Hotmail Badge](https://img.shields.io/badge/-mario_andre.l.a@hotmail.com-0078d4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mario_andre.l.a@hotmail.com)](mailto:mario_andre.l.a@hotmail.com)
+ <br/> :email: &nbsp; <b>Entre em contato comigo:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-andre-la/)]
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mailto:mario_andre.l.a@hotmail.com)](mailto:mario_andre.l.a@hotmail.com)
+
 
 
 

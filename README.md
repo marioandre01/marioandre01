@@ -9,9 +9,6 @@
 💻 <b>Prática de lógica:</b> <a href="https://app.codesignal.com/profile/mario_a33" target="_blank">app.codesignal.com/profile/mario_a33</a>;
 
 
-```markdown
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 # Mário André Lehmkuhl de Abreu
 ### Hi there / Olá 👋
 
@@ -25,7 +22,6 @@ Sou um FullStack Developer em desenvolvimento :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-mario_andre.l.a@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mario_andre.l.a@hotmail.com)](mailto:mario_andre.l.a@hotmail.com)
 
-```
 
 
 <!--

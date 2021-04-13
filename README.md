@@ -3,7 +3,7 @@
 
 Sou um Desenvolvedor FullStack em desenvolvimento :computer:
 
- :rocket:  &nbsp; <b>Estou trabalhando na:</b> Procurando trabalho
+ :rocket:  &nbsp; <b>Estou trabalhando na:</b> SIPPulse
  <br/> :computer: &nbsp; <b>Minha stack:</b> ReactJS, VueJS, Node.js, Python, Java
  <br/> 🌱 <b>Atualmente estou aprendendo:</b> ReactJs, API RESTful, TypeScript, boas práticas de clean code
  <br/> 💻 <b>Linguagens já praticadas:</b> Shell Script, C, Java, C++, HTML, CSS, JavaScript, jQuery, VHDL, SQL, Python, R, PHP

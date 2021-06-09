@@ -5,7 +5,7 @@ Sou um Desenvolvedor FullStack em desenvolvimento :computer:
 
  :rocket:  &nbsp; <b>Estou trabalhando na:</b> SIPPulse
  <br/> :computer: &nbsp; <b>Minha stack:</b> ReactJS, VueJS, Node.js, Python, Java
- <br/> 🌱 <b>Atualmente estou aprendendo:</b> ReactJs, API RESTful, TypeScript, boas práticas de clean code
+ <br/> 🌱 <b>Atualmente estou aprendendo:</b> Spring Boot, ReactJs, API RESTful, TypeScript, boas práticas de clean code
  <br/> 💻 <b>Linguagens já praticadas:</b> Shell Script, C, Java, C++, HTML, CSS, JavaScript, jQuery, VHDL, SQL, Python, R, PHP
  <br/> 💻 <b>Prática de lógica:</b> <a href="https://app.codesignal.com/profile/mario_a33" target="_blank">app.codesignal.com/profile/mario_a33</a>
  <br/> 💬  &nbsp; <b>Sobre mim:</b> Curto tecnologias, animes, games e futebol
